@@ -1,7 +1,7 @@
 # blog-page
 
 css project during the scrimba Frontend Developer Career Path  
-![screenshot](screenshot.jpg)
+<img src="screenshot.jpg" alt="screeshot" width="200"/>
 
 ## About Scrimba
 
